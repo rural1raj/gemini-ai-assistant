@@ -1,0 +1,43 @@
+2026-05-01 11:24:04,412 | INFO | GeminiApp | USER: hi
+2026-05-01 11:24:05,967 | INFO | GeminiApp | AI: ❌ Error: 429 You exceeded your current quota, please check your plan and billing details.
+For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.
+To monitor your current usage, head to: https://ai.dev/rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash Please retry in 54.196752876s.
+[links { description: "Learn more about Gemini API quotas" url: "https://ai.google.dev/gemini-api/docs/rate-limits" } , violations { } , retry_delay { seconds: 54 } ]
+2026-05-01 11:24:26,947 | INFO | GeminiApp | USER: wether mumbai
+2026-05-01 11:24:27,495 | INFO | GeminiApp | AI: ❌ Error: 429 You exceeded your current quota, please check your plan and billing details.
+For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.
+To monitor your current usage, head to: https://ai.dev/rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash Please retry in 32.363871923s.
+[links { description: "Learn more about Gemini API quotas" url: "https://ai.google.dev/gemini-api/docs/rate-limits" } , violations { } , retry_delay { seconds: 32 } ]
+2026-05-01 11:24:30,686 | INFO | GeminiApp | USER: wether mumbai
+2026-05-01 11:24:31,479 | INFO | GeminiApp | AI: ❌ Error: 429 You exceeded your current quota, please check your plan and billing details.
+For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.
+To monitor your current usage, head to: https://ai.dev/rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash Please retry in 28.335385488s.
+[links { description: "Learn more about Gemini API quotas" url: "https://ai.google.dev/gemini-api/docs/rate-limits" } , violations { } , retry_delay { seconds: 28 } ]
+2026-05-01 12:41:17,558 | INFO | GeminiApp | USER: wether mumbai
+2026-05-01 12:41:19,879 | INFO | GeminiApp | AI: I cannot provide real-time weather updates.
+However, you can easily find the current weather for Mumbai using these methods: * **Google Search:** Type "Mumbai weather" into Google.
+* **Weather Apps:** Use apps like AccuWeather, The Weather Channel, or Google Weather.
+* **News Websites:** Check local news sites that provide weather forecasts.
+2026-05-01 12:51:25,720 | INFO | GeminiApp | USER: today weather
+2026-05-01 12:51:25,724 | INFO | GeminiApp | AI: ⚠️ Please type like: weather mumbai
+2026-05-01 12:51:43,960 | INFO | GeminiApp | USER: weather mumbai
+2026-05-01 12:51:44,350 | INFO | GeminiApp | AI: 🌍 City: Mumbai 🌡️ Temperature: 32.99°C 🤒 Feels Like: 38.79°C 💧 Humidity: 58% 🌥️ Condition: haze
+2026-05-01 12:51:52,979 | INFO | GeminiApp | USER: hello
+2026-05-01 12:51:54,330 | INFO | GeminiApp | USER: hello
+2026-05-01 12:51:57,024 | INFO | GeminiApp | USER: hello
+2026-05-01 12:51:58,651 | INFO | GeminiApp | AI: Hello! How can I help you today?
+2026-05-01 12:52:07,367 | INFO | GeminiApp | USER: kya hall he 
+2026-05-01 12:52:09,314 | INFO | GeminiApp | AI: Mai theek hoon, dhanyawad! Main ek AI hoon, isliye mera koi "haal" nahi hota, lekin main hamesha aapki madad ke liye taiyar rehta hoon.
+Aap kaise hain? Aur main aapki kya madad kar sakta hoon?
+2026-05-01 12:52:46,523 | INFO | GeminiApp | USER: ye glt bat he app ek mdd gar chij ho human ko feel krna chaahiy
+2026-05-01 12:52:51,489 | INFO | GeminiApp | USER: ye glt bat he app ek mdd gar chij ho human ko feel krna chaahiy
+2026-05-01 12:52:52,051 | INFO | GeminiApp | AI: ❌ Error: 429 You exceeded your current quota, please check your plan and billing details.
+For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.
+To monitor your current usage, head to: https://ai.dev/rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash Please retry in 7.813837685s.
+[links { description: "Learn more about Gemini API quotas" url: "https://ai.google.dev/gemini-api/docs/rate-limits" } , violations { } , retry_delay { seconds: 7 } ]
+2026-05-01 12:53:20,647 | INFO | GeminiApp | USER: jaipur weather
+2026-05-01 12:53:20,924 | INFO | GeminiApp | AI: 🌍 City: Jaipur 🌡️ Temperature: 33.62°C 🤒 Feels Like: 34.32°C 💧 Humidity: 38% 🌥️ Condition: haze
